@@ -1,0 +1,6 @@
+services:
+  img:
+    build: .
+    container_name: react-appcontainer
+    ports:
+      - 5171:5173

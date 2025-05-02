@@ -1,7 +1,7 @@
 {
   "greeting": "Bonjour, Bienvenue !",
   "description": {
-    "line1": "Vous regardez la chaîne YouTube <1>{{channel}}</1>",
-    "line2": "Ceci est un tutoriel d'internationalisation"
+    "line1": "Rationaliser le déploiement des applications grâce aux conteneurs Docker pour une évolutivité, une portabilité et une efficacité sans faille.",
+    "line2": "Un écosystème containerisé construit avec Docker, offrant des environnements robustes, isolés et reproductibles du développement à la production."
   }
 }
